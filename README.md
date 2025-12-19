@@ -1,2 +1,2 @@
-# Tren-ISO
-website
+# Aplikasi-Trend-ISO
+website berbasis python flask memuat dashboard dan CRUD data pelanggan
